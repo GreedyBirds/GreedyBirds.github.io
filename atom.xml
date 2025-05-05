@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GreedyBirds.github.io/project</id>
-    <title>Hexo</title>
+    <title>我的博客</title>
     <subtitle></subtitle>
     <icon>https://greedybirds.github.io/project/assets/favicon.ico</icon>
     <link href="https://GreedyBirds.github.io/project" />
     <author>
-      <name>John Doe</name>
+      <name>凯</name>
     </author>
     <updated>2025-05-05T12:44:00.169Z</updated>
     <entry>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>我的博客</title>
         <subtitle></subtitle>
         <icon>https://greedybirds.github.io/project/assets/favicon.ico</icon>
         <link>https://GreedyBirds.github.io/project</link>
         <author>
-          <name>John Doe</name>
+          <name>凯</name>
         </author>
         <description></description>
         <language>zh-CN</language>
