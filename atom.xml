@@ -8,18 +8,24 @@
     <author>
       <name>夏日沐雪</name>
     </author>
-    <updated>2025-05-09T06:09:34.659Z</updated>
+    <updated>2025-05-09T06:26:58.709Z</updated>
     <entry>
         <id>https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95/</id>
-        <title></title>
+        <title>Hello</title>
         <link rel="alternate" href="https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95/"/>
-        <content type="html">&lt;hr /&gt;
-&lt;p&gt;title: Hello&lt;br /&gt;
- 你好&lt;br /&gt;
+        <content type="html">&lt;p&gt;你好&lt;br /&gt;
  123&lt;/p&gt;
 &lt;p&gt;哈哈&lt;/p&gt;
 </content>
-        <updated>2025-05-09T06:09:34.659Z</updated>
+        <updated>2025-05-09T06:26:58.709Z</updated>
+    </entry>
+    <entry>
+        <id>https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95-1/</id>
+        <title>测试</title>
+        <link rel="alternate" href="https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95-1/"/>
+        <content type="html">&lt;p&gt;不知道该怎么办&lt;/p&gt;
+</content>
+        <updated>2025-05-09T06:26:04.000Z</updated>
     </entry>
     <entry>
         <id>https://greedybirds.github.io/2025/04/27/hello-world/</id>
