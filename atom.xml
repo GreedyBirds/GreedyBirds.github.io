@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greedybirds.github.io</id>
-    <title>夏日藏雪集</title>
+    <title>Dream Come True</title>
     <subtitle>胡思乱想</subtitle>
     <icon>https://greedybirds.github.io/assets/favicon.ico</icon>
     <link href="https://greedybirds.github.io" />
@@ -9,7 +9,6 @@
       <name>夏日沐雪</name>
     </author>
     <updated>2025-05-09T06:53:14.646Z</updated>
-    <category term="blog" />
     <entry>
         <id>https://greedybirds.github.io/2025/05/09/hello-world/</id>
         <title>Hello World</title>
