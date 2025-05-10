@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://GreedyBirds.github.io</id>
+    <id>https://greedybirds.github.io</id>
     <title>Dream Come True</title>
     <subtitle>胡思乱想</subtitle>
     <icon>https://greedybirds.github.io/assets/favicon.ico</icon>
-    <link href="https://GreedyBirds.github.io" />
+    <link href="https://greedybirds.github.io" />
     <author>
       <name>夏日沐雪</name>
     </author>
