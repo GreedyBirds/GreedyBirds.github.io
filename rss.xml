@@ -3,8 +3,8 @@
     <channel>
         <title>Dream Come True</title>
         <subtitle>胡思乱想</subtitle>
-        <icon>https://greedybirds.github.io/assets/favicon.ico</icon>
-        <link>https://greedybirds.github.io</link>
+        <icon>https://xiarimuxue.com/assets/favicon.ico</icon>
+        <link>https://xiarimuxue.com</link>
         <author>
           <name>夏日沐雪</name>
         </author>
@@ -13,9 +13,9 @@
         <pubDate>Fri, 09 May 2025 14:53:14 +0800</pubDate>
         <lastBuildDate>Fri, 09 May 2025 14:53:14 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://greedybirds.github.io/2025/05/09/hello-world/</guid>
+            <guid isPermalink="true">https://xiarimuxue.com/2025/05/09/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://greedybirds.github.io/2025/05/09/hello-world/</link>
+            <link>https://xiarimuxue.com/2025/05/09/hello-world/</link>
             <pubDate>Fri, 09 May 2025 14:53:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -30,9 +30,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95/</guid>
+            <guid isPermalink="true">https://xiarimuxue.com/2025/05/09/%E6%B5%8B%E8%AF%95/</guid>
             <title>Hello</title>
-            <link>https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95/</link>
+            <link>https://xiarimuxue.com/2025/05/09/%E6%B5%8B%E8%AF%95/</link>
             <pubDate>Fri, 09 May 2025 14:26:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;你好&lt;br /&gt;
  123&lt;/p&gt;
@@ -40,9 +40,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95-1/</guid>
+            <guid isPermalink="true">https://xiarimuxue.com/2025/05/09/%E6%B5%8B%E8%AF%95-1/</guid>
             <title>测试</title>
-            <link>https://greedybirds.github.io/2025/05/09/%E6%B5%8B%E8%AF%95-1/</link>
+            <link>https://xiarimuxue.com/2025/05/09/%E6%B5%8B%E8%AF%95-1/</link>
             <pubDate>Fri, 09 May 2025 14:26:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;不知道该怎么办&lt;/p&gt;
  ]]></description>
